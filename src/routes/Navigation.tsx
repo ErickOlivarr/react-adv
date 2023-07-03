@@ -1,3 +1,5 @@
+//ver el archivo routes.ts, ahi se explica todo de esto
+
 import {
   BrowserRouter,
   Route,

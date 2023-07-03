@@ -1,3 +1,5 @@
+//ver el archivo routes.ts, ahi se explica todo de esto
+
 import { NavLink, Navigate, Route, Routes } from "react-router-dom";
 import { LazyPage1, LazyPage2, LazyPage3 } from "../pages";
 
